@@ -9,13 +9,16 @@
 	color: #CC00AA;
 }
 
-
+.project p {
+     margin-left: 210px;
+}
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
-     border: 1px dotted gray;
+     border: 5px dotted darkseagreen;
      padding: 20px;
 }
+
 
 .jumbotron {
 	position: relative;
